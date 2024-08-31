@@ -1,0 +1,2 @@
+# lab_padroes_projeto_strategy
+padroes_strategy
